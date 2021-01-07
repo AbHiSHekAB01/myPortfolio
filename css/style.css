@@ -121,3 +121,6 @@ ul#countdown li p.timeRefSeconds {
 .copy-right p a:hover{
 	color:#000;
 }
+.profile-pic{
+	border-radius:100%;
+}
